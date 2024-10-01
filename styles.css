@@ -30,6 +30,7 @@
 
 body {
     background: var(--bg-url) no-repeat top center/cover;
+    height: 100dvh;
     /*
   background-image: url(./assets/bg-desktop.jpg);
   background-repeat: no-repeat;
